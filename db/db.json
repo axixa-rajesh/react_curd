@@ -1,0 +1,51 @@
+{
+  "product": [
+    {
+      "name": "icecream",
+      "price": "12",
+      "id": 3
+    },
+    {
+      "name": "xicecream",
+      "price": 120,
+      "id": 4
+    },
+    {
+      "name": "ladu",
+      "price": 450,
+      "id": 5
+    },
+    {
+      "name": "mug",
+      "price": "20",
+      "id": 7
+    },
+    {
+      "name": "botal",
+      "price": "220",
+      "id": 8
+    },
+    {
+      "name": "ok",
+      "price": "454",
+      "id": 9
+    },
+    {
+      "name": "plsql",
+      "price": "200",
+      "id": 10
+    }
+  ],
+  "toys": [
+    {
+      "id": 1,
+      "toyname": "train",
+      "price": 300
+    },
+    {
+      "name": "icecream",
+      "price": 2022,
+      "id": 5
+    }
+  ]
+}
